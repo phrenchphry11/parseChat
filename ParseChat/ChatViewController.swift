@@ -14,7 +14,7 @@ class ChatViewController: UIViewController, UITableViewDataSource, UITableViewDe
     
     @IBOutlet weak var submitButton: UIButton!
     
-    @IBOutlet weak var tableView: UITableView!`
+    @IBOutlet weak var tableView: UITableView!
     
     var messages: [PFObject]?
     
